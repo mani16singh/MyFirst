@@ -1,6 +1,6 @@
 class Singleton 
 { 
-    // static variable single_instance of type Singleton 
+    //    static variable single_instance of type Singleton 
     private static Singleton single_instance = null; 
   
     // variable of type String 

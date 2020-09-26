@@ -3,7 +3,7 @@ package com.phone;
 public class OperatingSystemFactory {
 	
 	public OS getInstance(String str) {
-		//Changes Required
+		//Changes    Required
 		
 		if(str.equals("OPEN"))
 		return new Android();
