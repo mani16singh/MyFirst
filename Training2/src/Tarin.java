@@ -32,7 +32,7 @@ class Singleton
     public void Display() {
     	
     	System.out.println(s);
-    	s="heeeeeeeyyyyyy";
+    	s="heyy";
     }
 }
 public class Tarin {

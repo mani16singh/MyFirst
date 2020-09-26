@@ -11,7 +11,7 @@ public class FactoryMain {
 		//OS obj = new IOS();
 		//OS obj = new Windows();
 		OperatingSystemFactory osf= new OperatingSystemFactory();
-		OS obj1= osf.getInstance("");
+		OS obj1= osf.getInstance("OPEN");
 		obj1.spects();
 
 	}

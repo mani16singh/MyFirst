@@ -1,3 +1,4 @@
+//import java.*;
 
 public class SingletonDemo {
 
